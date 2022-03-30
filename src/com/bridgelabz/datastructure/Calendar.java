@@ -2,7 +2,7 @@ package com.bridgelabz.datastructure;
 
 import java.util.Scanner;
 
-public class Calendar_12 {
+public class Calendar {
     public static void main(String a[]) {
         Scanner sc = new Scanner(System.in);				// Reading input by creating object of Scanner class
         System.out.print("Enter the year : ");				// Display message only
